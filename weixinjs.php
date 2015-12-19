@@ -126,8 +126,8 @@ session_start();
 //     exit;
 // }
 
-$appID = "wxce0069199bab04f5";
-$appSecret = "5c7224c72e602a57eaa431556391c7a6";
+$appID = "微信公众号";
+$appSecret = "秘钥";
 
 $url = $_REQUEST['url'];
 $url = base64_decode($url);
