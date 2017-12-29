@@ -1,5 +1,5 @@
 # v5game
-王府井百货5周年庆，h5推广游戏，抓V5侠，打猴子！
+周年庆，h5推广游戏，抓V5侠，打猴子！
 
 使用tangIDE 编辑器：http://www.tangide.com/gamebuilder.php
 
